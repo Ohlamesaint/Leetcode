@@ -1,0 +1,41 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/discord.xml
+/modules.xml
+/misc.xml
+/vcs.xml
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# java class file
+*.class
+
+# Package Files #
+*.war
+*.ear
+/target
+/.settings
+/.classpath
+/.project
+
+
+# ignore Maven generated target folders
+target
+out
+
+# ignore eclipse files
+.project
+.classpath
+.settings
+.factorypath
+.metadata
+*.iml
+
+# ignore log files
+*.log
