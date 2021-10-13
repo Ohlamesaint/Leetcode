@@ -1,4 +1,4 @@
-package question1008.construct_binary_search_tree_from_preorder_traversal;
+package question_1008.construct_binary_search_tree_from_preorder_traversal;
 
 import java.util.ArrayList;
 
