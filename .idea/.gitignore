@@ -29,6 +29,7 @@ Desktop.ini
 # ignore Maven generated target folders
 ../target
 ../out
+../leetcode.iml
 
 # ignore eclipse files
 .project
