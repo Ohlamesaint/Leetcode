@@ -27,8 +27,8 @@ Desktop.ini
 
 
 # ignore Maven generated target folders
-target
-out
+../target
+../out
 
 # ignore eclipse files
 .project
