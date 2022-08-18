@@ -1,5 +1,11 @@
 package question_98.validate_binary_search_tree;
 
+
+/**
+ * <h2></h2>
+ *
+ */
+
 class Solution {
     public boolean isValidBST(TreeNode root) {
         return validate(root, Integer.MIN_VALUE, Integer.MAX_VALUE);
